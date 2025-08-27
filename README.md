@@ -33,10 +33,10 @@ Este repositório mostra o passo a passo de como montar e programar um LED para 
 ### 9️⃣ Onde e como colocar o LED (A parte maior ou curvada de metal é o positivo e a parte menor ou mais reta é o negativo)
 ![Passo 9](Imagens/img9.jpg)
 
-### 🔟 Conctando o cabo no ESP32
+### 🔟 Conectando o cabo no ESP32
 ![Passo 10](Imagens/img10.jpg)
 
-### 1️⃣1️⃣ Conctando o cabo no Computador
+### 1️⃣1️⃣ Conectando o cabo no Computador
 ![Passo 11](Imagens/img11.jpg)
 
 ### 1️⃣2️⃣ Código a ser utilizado feito no arduino IDE  
