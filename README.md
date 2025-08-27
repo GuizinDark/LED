@@ -21,7 +21,7 @@ Este repositório mostra o passo a passo de como montar e programar um LED para 
 ### 5️⃣ Ligando o fio no D18
 ![Passo 5](Imagens/img5.jpg)
 
-### 6️⃣ Resistor utilado (Importante para o led não queimar)
+### 6️⃣ Resistor utilizado (Importante para o led não queimar)
 ![Passo 6](Imagens/img6.jpg)
 
 ### 7️⃣ Onde conectar o Resistor
